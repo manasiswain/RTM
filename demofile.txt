@@ -1,0 +1,373 @@
+Sdcch 0 0 up
+received bla bla
+TCH 1 0 up
+sent blu blu
+Sdcch 0 1 up
+this is an error
+Sdcch 0 0 down
+this is a wraning
+this is an error 2
+TCH 2 0 up
+Sdcch 0 1 down
+Meas(DL) processGsm0408MsMeasResult slot 2 : subchannel 0 : RxLevelSub 49 : RxQualSub 0 : RxLevelFull 49 : RxQualFull 0
+EQ STATS : AB 0 SB 0 NB 0
+received bla bla
+Meas(DL) processGsm0408MsMeasResult slot 2 : subchannel 0 : RxLevelSub 49 : RxQualSub 0 : RxLevelFull 49 : RxQualFull 0
+Meas(UL) TCH : slot : 2 : subChan 0 : RxLevFull 63 : RxQualFull 0 : RxLevSub 63 : RxQualSub 0 : TimingOffset -1
+EQ STATS : AB 1 SB 0 NB 70
+received bla bla
+Meas(UL) TCH : slot : 2 : subChan 0 : RxLevFull 63 : RxQualFull 0 : RxLevSub 63 : RxQualSub 0 : TimingOffset -1
+EQ STATS : AB 2 SB 0 NB 140
+received bla bla
+RX BIN: 3335 6553 110 1 1 0 0 0 0 0, AVG:103.27
+TX BIN: 10000 0 0 0 0 0 0 0 0 0, AVG:15.18
+EQ STATS : AB 3 SB 0 NB 300
+received bla bla
+EQ STATS : AB 4 SB 0 NB 1000
+received bla bla
+EQ STATS : AB 4 SB 0 NB 1200
+received bla bla
+EQ STATS : AB 4 SB 0 NB 1300
+received bla bla
+EQ STATS : AB 4 SB 0 NB 1321
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+EQ STATS : AB 4 SB 0 NB 2100
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+EQ STATS : AB 4 SB 0 NB 2200
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+EQ STATS : AB 4 SB 0 NB 2300
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+EQ STATS : AB 4 SB 0 NB 2400
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+EQ STATS : AB 4 SB 0 NB 2500
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+EQ STATS : AB 4 SB 0 NB 2600
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+EQ STATS : AB 4 SB 0 NB 2700
+EQ STATS : AB 4 SB 0 NB 2800
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 1 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 6 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 3 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 7 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 1 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 30 : RxQualSub 7 : TimingOffset -1
+received bla bla
+EQ STATS : AB 4 SB 0 NB 1400
+received bla bla
+EQ STATS : AB 4 SB 0 NB 1900
+received bla bla
+EQ STATS : AB 4 SB 0 NB 2100
+received bla bla
+RX BIN: 3335 6553 110 1 1 0 0 0 0 0, AVG:102.27
+TX BIN: 10000 0 0 0 0 0 0 0 0 0, AVG:15.18
+EQ STATS : AB 4 SB 0 NB 2200
+received bla bla
+RX BIN: 3335 6553 110 1 1 0 0 0 0 0, AVG:108.29
+TX BIN: 10000 0 0 0 0 0 0 0 0 0, AVG:18.18
+TCH 1 0 down
+TCH 2 0 down
+TCH 3 0 up
+TCH 3 1 up
+TCH 4 0 up
+TCH 4 1 up
+Meas(UL) TCH : slot : 4 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(UL) TCH : slot : 4 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 4 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+TCH 5 0 up
+TCH 5 1 up
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 1 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 5 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+TCH 6 0 up
+TCH 6 1 up
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 6 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 6 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+TCH 7 0 up
+TCH 7 1 up
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 7 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH :  slot : 7 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 0 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
+Meas(DL) processGsm0408MsMeasResult slot 7 : subchannel 0 : RxLevelSub 40 : RxQualSub 0 : RxLevelFull 40 : RxQualFull 0
+Meas(UL) TCH : slot : 7 : subChan 1 : RxLevFull 29 : RxQualFull 0 : RxLevSub 29 : RxQualSub 0 : TimingOffset -1
